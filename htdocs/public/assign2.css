@@ -1,0 +1,24 @@
+.rotated {
+   transform: rotate(0.50turn);
+}
+
+.contain {
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+img {
+  padding: .30em;
+}
+
+#indent1 {
+  margin-left: 3em;
+}
+
+#indent2 {
+  margin-left: 2.75em;
+}
+
+#indent3 {
+  margin-left: -1.25em;
+}
